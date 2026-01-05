@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw';
+const API_KEY = '';
 
 const translate = async text => {
   try {
