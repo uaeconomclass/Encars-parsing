@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://encar.com/dc/dc_carsearchlist.do",
+  "yearFrom": 2020,
+  "monthFrom": 9,
+  "limit": 50
+}
